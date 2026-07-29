@@ -3,23 +3,23 @@
 		SlashCmdList.PBENABLE()
 	</Binding>
 
-	<Binding name="PBHIDEALLPLAYERS" header="PERFBOOST">
+	<Binding name="PBHIDEALLPLAYERS">
 		SlashCmdList.PBHIDEALLPLAYERS()
 	</Binding>
 
-	<Binding name="PBTOGGLEPLAYERRENDERIST" header="PERFBOOST">
+	<Binding name="PBTOGGLEPLAYERRENDERIST">
 		SlashCmdList.PBTOGGLEPLAYERRENDERIST()
 	</Binding>
 
-	<Binding name="PBSHOWALLPLAYERS" header="PERFBOOST">
+	<Binding name="PBSHOWALLPLAYERS">
 		SlashCmdList.PBSHOWALLPLAYERS()
 	</Binding>
 
-	<Binding name="PBCYCLEPLAYERVISIBILITY" header="PERFBOOST">
+	<Binding name="PBCYCLEPLAYERVISIBILITY">
 		SlashCmdList.PBCYCLEPLAYERVISIBILITY()
 	</Binding>
 
-	<Binding name="PBCYCLEDOODADVISIBILITY" header="PERFBOOST">
+	<Binding name="PBCYCLEDOODADVISIBILITY">
 		SlashCmdList.PBCYCLEDOODADVISIBILITY()
 	</Binding>
 
